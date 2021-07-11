@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/chenchih/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.23.0/icons/linkedin.svg" alt="chenchih" height="30" width="40" /></a>
 <a href="https://chenchih-tutorial.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.23.0/icons/blogger.svg" alt="chenchih" height="30" width="40" /></a>
 <a href="https://chenchih.coderbridge.io/" target="blank"><img align="center" src="coder_bridge.png" alt="coderbridge" height="30" width="40" /></a>
-  
+  <a href="https://medium.com/jacklee26/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.23.0/icons/medium.svg" alt="MEDIUM" height="30" width="40" /></a>
   
   
 
