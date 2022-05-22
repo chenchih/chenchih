@@ -38,8 +38,11 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/chenchih)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chenchih/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.23.0/icons/linkedin.svg" alt="chenchih" height="30" width="40" /></a>
+<a href="[https://www.linkedin.com/in/dipanjan131](https://www.linkedin.com/in/chenchih)/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="mailto:jacklee26@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+
+<!-- <p align="left">
+<a href="https://www.linkedin.com/in/chenchih/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.23.0/icons/linkedin.svg" alt="chenchih" height="30" width="40" /></a> -->
 <a href="https://chenchih-tutorial.blogspot.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.23.0/icons/blogger.svg" alt="chenchih" height="30" width="40" /></a>
 <a href="https://chenchih.coderbridge.io/" target="blank"><img align="center" src="coder_bridge.png" alt="coderbridge" height="30" width="40" /></a>
   <a href="https://medium.com/jacklee26/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.23.0/icons/medium.svg" alt="MEDIUM" height="30" width="40" /></a>
