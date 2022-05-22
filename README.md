@@ -13,12 +13,17 @@
   - Security & vulnerability 
   - Linux setup Ubuntu, RHEL, Kali 
   - Python Automation 
-
-
-<!--
-- 💻 I’m currently learning **Python and Front End Skills **
-- 📝 I like to automation routine stuff to be more productive . 
- 
+  - 
+### Goals
+- 💻 I’m currently learning **Python and Front End Skills**
+- 📝 I like to automation routine stuff to be more productive 
+- ⚒  Study **HeXo & HUGO** (SSG static site generator) build my own site
+- 🪓 Study Productive tool: Notion, HackMD, obsidian (planning)
+### Blog Posts
+* [How to create the first python package](https://medium.com/jacklee26/how-to-create-the-first-python-package-de6464799bc3)
+* [Python with __name__==__main__](https://medium.com/jacklee26/how-to-create-the-first-python-package-de6464799bc3)
+* [Selenium Instagram-followers and following list](https://medium.com/jacklee26/selenium-instagram-followers-and-following-list-52c335a4ec03)
+* [How to use github](https://medium.com/jacklee26/how-to-use-git-or-github-ff6f3d5aef0e)
 
 
 **chenchih/chenchih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
