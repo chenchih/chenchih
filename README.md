@@ -13,7 +13,7 @@
   - Security & vulnerability 
   - Linux setup Ubuntu, RHEL, Kali 
   - Python Automation 
-  - 
+
 ### Goals
 - 💻 I’m currently learning **Python and Front End Skills**
 - 📝 I like to automation routine stuff to be more productive 
@@ -26,19 +26,6 @@
 * [How to use github](https://medium.com/jacklee26/how-to-use-git-or-github-ff6f3d5aef0e)
 
 
-**chenchih/chenchih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![Profile views](https://gpvc.arturio.dev/chenchih)
 
