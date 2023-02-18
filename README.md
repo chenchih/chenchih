@@ -20,7 +20,11 @@
 - ⚒  Study **HeXo & HUGO** (SSG static site generator) build my own site
 - 🪓 Study Productive tool: Notion, HackMD, obsidian (planning)
 ### Blog Posts
-* [How to create the first python package](https://medium.com/jacklee26/how-to-create-the-first-python-package-de6464799bc3)
+* [2023 Ubuntu Remote tool- Part2 Transfer files](https://medium.com/jacklee26/ubuntu-remote-tool-part2-transfer-files-90059c91f5f6))
+* [2023 Parse string from logfile (automation)](https://medium.com/jacklee26/project-parse-specific-string-python-180faf1e8f5)
+* [2022 automatic-ssh-connection-without-password](https://medium.com/jacklee26/automatic-ssh-connection-without-password-c99cbfe34cbf)
+* [2022 ubuntu-remote-tool-part1](https://medium.com/jacklee26/ubuntu-remote-tool-part1-c5214f79fe68)
+* [2022 How to create the first python package](https://medium.com/jacklee26/how-to-create-the-first-python-package-de6464799bc3)
 * [Python with __name__==__main__](https://medium.com/jacklee26/how-to-create-the-first-python-package-de6464799bc3)
 * [Selenium Instagram-followers and following list](https://medium.com/jacklee26/selenium-instagram-followers-and-following-list-52c335a4ec03)
 * [How to use github](https://medium.com/jacklee26/how-to-use-git-or-github-ff6f3d5aef0e)
