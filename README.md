@@ -31,8 +31,7 @@
 * [How to use github](https://medium.com/jacklee26/how-to-use-git-or-github-ff6f3d5aef0e)
 
 
-
-#![Profile views](https://gpvc.arturio.dev/chenchih)
+<!--- ![Profile views](https://gpvc.arturio.dev/chenchih)--->
 
 <h3 align="left">Connect with me:</h3>
 
@@ -50,6 +49,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenchih&theme=noctis_minimus&layout=compact" />
 </a> 
     
-#![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chenchih) 
-#https://ashutosh00710.github.io/github-readme-activity-graph/  
+<!---![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chenchih) 
+#https://ashutosh00710.github.io/github-readme-activity-graph/  --->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chenchih&bg_color=b3cfea&color=090c0b&line=342733&point=d52020&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
