@@ -2,7 +2,7 @@
 <h3 align="center">A Software QA on Network and Security  </h3>
 
 - 💻 I'm ChenChih and I am a Software QA Engineer, and I enjoy learning different skills across the software industry in my leisure time, which includes: 
-  - FrontEnd, 
+  - FrontEnd 
   - ＢackEnd
   - Data Science
   - Automation and web Scraping, etc.  
@@ -13,6 +13,7 @@
   - Security & vulnerability 
   - Linux setup Ubuntu, RHEL, Kali 
   - Python Automation 
+  - Pandas Matplotlib 
 
 ### Goals
 - 💻 I’m currently learning **Python and Front End Skills**
@@ -31,7 +32,7 @@
 
 
 
-![Profile views](https://gpvc.arturio.dev/chenchih)
+#![Profile views](https://gpvc.arturio.dev/chenchih)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -49,8 +50,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenchih&theme=noctis_minimus&layout=compact" />
 </a> 
     
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chenchih)   
-  
-
-
-
+#![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chenchih) 
+#https://ashutosh00710.github.io/github-readme-activity-graph/  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chenchih&bg_color=b3cfea&color=090c0b&line=342733&point=d52020&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
