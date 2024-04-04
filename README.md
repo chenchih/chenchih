@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ChenChih</h1>
 <h3 align="center">A Software QA on Network and Security  </h3>
 
-- 💻 I'm ChenChih and I am a Software QA Engineer, and I enjoy learning different skills across the software industry in my leisure time, which includes: 
+- I'm ChenChih and I am a Software QA Engineer, and I enjoy learning different skills across the software industry in my leisure time, which includes: 
   - FrontEnd 
   - ＢackEnd
   - Data Science
@@ -9,18 +9,17 @@
 - 📝 I also spend time writing the blog and also surf the Youtube tutorial channel, and see many strong developers. I wish someday I can be like these people.  All of my software skills are learned in my leisure time on the weekend, so time is one of the most valuable things, and I used it wisely. 
 - 🤔 I'm not smart and have no software developer experience, but I believe any skill can be learned, and i'm passion of learning 
 - 🔭 My expertise and Experience:
-  - Network fundamental 
+  - Network Fundamental 
   - Security & vulnerability 
   - Linux setup Ubuntu, RHEL, Kali 
   - Python Automation 
   - Pandas Matplotlib 
-
 ### Goals
 - 💻 I’m currently learning **Python and Front End Skills**
-- 📝 I like to automation routine stuff to be more productive 
+- 🛠️ I like to automation routine stuff to be more productive 
 - ⚒  Study **HeXo & HUGO** (SSG static site generator) build my own site
 - 🪓 Study Productive tool: Notion, HackMD, obsidian (planning)
-### Blog Posts
+### 🏡Blog Posts
 * [2023 Ubuntu Remote tool- Part2 Transfer files](https://medium.com/jacklee26/ubuntu-remote-tool-part2-transfer-files-90059c91f5f6))
 * [2023 Parse string from logfile (automation)](https://medium.com/jacklee26/project-parse-specific-string-python-180faf1e8f5)
 * [2022 automatic-ssh-connection-without-password](https://medium.com/jacklee26/automatic-ssh-connection-without-password-c99cbfe34cbf)
@@ -29,7 +28,21 @@
 * [Python with __name__==__main__](https://medium.com/jacklee26/how-to-create-the-first-python-package-de6464799bc3)
 * [Selenium Instagram-followers and following list](https://medium.com/jacklee26/selenium-instagram-followers-and-following-list-52c335a4ec03)
 * [How to use github](https://medium.com/jacklee26/how-to-use-git-or-github-ff6f3d5aef0e)
-
+###########################################
+### 🦾 Programming Skills:
+- Python
+- HTML/CSS/JS
+- JSP 
+- Bash Shell script
+### 🖥️ OS
+- Linux (Ubuntu)/Window/ MacOS
+### 📝 editor tool
+- vscode
+- atom
+- notepad++
+### 🧰 design tool
+- Adobe illustrator/photoshop/AE
+- blender
 
 <!--- ![Profile views](https://gpvc.arturio.dev/chenchih)--->
 
