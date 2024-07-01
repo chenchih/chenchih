@@ -30,21 +30,33 @@
 
 ###########################################
 ### 🦾 Programming Skills:
-- Python
-- HTML/CSS/JS
-- JSP 
-- Bash Shell script
+- Automation/Data: ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-20240701?style=for-the-badge&logo=pandas&color=black)
+![SSelenium](https://img.shields.io/badge/selenium-20240701?style=for-the-badge&logo=selenium&color=black)
+![Pytest](https://img.shields.io/badge/pytest-20240701?style=for-the-badge&logo=pytest&color=black)
+- Web/Frontend: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+- Backend: ![JSP](https://img.shields.io/badge/JSP-ED8B00.svg?logo=java&logoColor=white)
+- DB ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+- Shell: ![Bash Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ### 🖥️ OS
-- Linux (Ubuntu)/Window/ MacOS
-### 📝 editor tool
-- vscode
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-20240701?style=for-the-badge&logo=ubuntu&color=%230068C8)![Window](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)![MACOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+### 📝  IDEs and Tools
+- ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Notepad++](https://img.shields.io/badge/NotePad%2B%2B-20240701?style=for-the-badge&logo=notepadplusplus&color=%238e7366) ![pycharm](https://img.shields.io/badge/pycharm-20240701?style=for-the-badge&logo=pycharm&color=%23525252)
 - atom
-- notepad++
+- ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Anaconda](https://img.shields.io/badge/Conda-20240701?style=for-the-badge&logo=anaconda&color=%231A1A1A)
+ ![Jupter](https://img.shields.io/badge/Jupter-20240701?style=for-the-badge&logo=jupyter&color=%09%2396ceb4)
+- ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 ### 🧰 design tool
-- Adobe illustrator/photoshop/AE
-- blender
+- Adobe ![PS](https://img.shields.io/badge/PhotoShop-20240701?style=for-the-badge&logo=adobephotoshop&color=black)
+![AI](https://img.shields.io/badge/Illustrator-20240701?style=for-the-badge&logo=adobeillustrator&color=black)
+![AE](https://img.shields.io/badge/AfterEffects-20240701?style=for-the-badge&logo=adobeaftereffects&color=%09%23ca7f68)
+- ![Blender](https://img.shields.io/badge/blender-20240701?style=for-the-badge&logo=blender&color=%23000000)
+
 ### 💻 Terminal
-- Zsh (ubuntu, mac)
+- ![ZSH](https://img.shields.io/badge/zsh-20240701?style=for-the-badge&logo=zsh&color=%23189EFF) (ubuntu, mac)
 - Ohmyposh(window powershell)
 - fish shell
 - bash shell
