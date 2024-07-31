@@ -66,8 +66,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-[<img alt=“Email src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:jacklee26@gmail.com/)
-[<img alt="Twitter" src="https://img.shields.io/badge/jacklee26%20-%231DA1F2?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/jacklee26) [<img alt=“LinkedIn” src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/chenchih/) [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/jacklee26) [<img alt=“Blogger src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>](https://chenchih-tutorial.blogspot.com) <a href="https://chenchih.coderbridge.io/" target="blank"><img  src="coder_bridge.png" alt="coderbridge" height="30" width="40" /></a>
+[<img alt=“Email src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white"/>](mailto:jacklee26@gmail.com/) [<img alt=“LinkedIn” src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/chenchih/) [<img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>](https://medium.com/jacklee26) [<img alt=“Blogger src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>](https://chenchih-tutorial.blogspot.com) <a href="https://chenchih.coderbridge.io/" target="blank"><img  src="coder_bridge.png" alt="coderbridge" height="30" width="40" /></a>
 
 </p>
 <h3 align="left">Languages and Tools:</h3>
