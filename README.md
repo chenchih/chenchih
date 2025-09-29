@@ -9,10 +9,17 @@
 - 📝 I also spend time writing the blog, surf the YouTube tutorial channel, and seeing many strong developers. I wish someday I could be like these people.  All of my software skills are learned in my leisure time on the weekend, so time is one of the most valuable things, and I use it wisely. 
 - 🤔 I'm not smart and have no software developer experience, but I believe any skill can be learned, and i'm passionate of learning 
 - 🔭 My expertise and Experience:
-  - Network Fundamental 
+  - Network Fundamentals 
   - Security & vulnerability 
   - Linux setup Ubuntu, RHEL, Kali 
-  - Python Automation 
+  - Python Automation
+### My Note in Git
+- Env_Setup_Note: Linux, Terminal Env, and git related command Note
+- TechNote: Python, some window command cheatsheet, and Tool(ffmepg, ocr, etc)  Note
+- Former Network company stuff:
+  - 5G related product: `5G_automationLinux`
+  - CPE Cable Modem: `Hitron_Script`
+- Automation Script: `Script`, `python-full_script`
 ### Goals
 - 💻 I’m currently learning **Python and Front End Skills**
 - 🛠️ I like to automate routine stuff to be more productive 
